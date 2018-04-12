@@ -1,0 +1,2 @@
+from sklearn import preprocessing
+std_scale=preprocessing.Standard
